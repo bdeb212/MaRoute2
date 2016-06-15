@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">MaRoute2</string>
-    <string name="search_1_tv_hint">Select Route</string>
-    <string name="search_2_tv_hint">Select Direction</string>
-    <string name="search_3_tv_hint">Select Stop</string>
-    <string name="search_4_tv_hint">Arrival Time hh:mm:ss</string>
-    <string name="toast_favorite_added">favorite added : </string>
-    <string name="toast_favorite_removed">favorite removed : </string>
+    <string name="search_1_tv_hint">Choisir la route</string>
+    <string name="search_2_tv_hint">Choisissez la direction</string>
+    <string name="search_3_tv_hint">Sélectionne l’arrêt</string>
+    <string name="search_4_tv_hint">Heure d'arrivée</string>
+    <string name="toast_favorite_added">Favori ajouté : </string>
+    <string name="toast_favorite_removed">Favori retiré : </string>
 </resources>
